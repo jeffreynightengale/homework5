@@ -21,7 +21,7 @@
           <a class="nav-link" href="hide.php">Employees</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="managers.php">Managers</a>
+          <a class="nav-link" href="change.php">Managers</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="supervisors.php">Supervisors</a>
