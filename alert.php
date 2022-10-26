@@ -9,7 +9,7 @@
 
 <script>
 function myFunction() {
-  alert("I am an alert box!");
+  alert("Thanks for clicking me!");
 }
 </script>
 
