@@ -1,4 +1,7 @@
 <?php require_once("header.php"); ?>
+<!DOCTYPE html>
+<html>
+<body>
 
 <h2>What Can JavaScript Do?</h2>
 
