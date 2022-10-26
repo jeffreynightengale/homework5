@@ -15,16 +15,16 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Customer Records</a>
+          <a class="nav-link active" aria-current="page" href="index.php">Light Bulb</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="hide.php">Employees</a>
+          <a class="nav-link" href="hide.php">Hide Text</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="change.php">Managers</a>
+          <a class="nav-link" href="change.php">Change Text</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="alert.php">Supervisors</a>
+          <a class="nav-link" href="alert.php">Alert</a>
         </li>
       </ul>
     </div>
