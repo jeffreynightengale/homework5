@@ -26,6 +26,9 @@
         <li class="nav-item">
           <a class="nav-link" href="alert.php">Alert</a>
         </li>
+         <li class="nav-item">
+          <a class="nav-link" href="validation.php">Validation</a>
+        </li>
       </ul>
     </div>
   </div>
